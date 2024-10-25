@@ -6,5 +6,6 @@ This repository is meant to share my solutions for the top 150 interview LeetCod
 ### Dificulty: Simple
 
 #### 1. Merge Sorted Array
-
+  - [description](https://leetcode.com/problems/merge-sorted-array/description/)
+  - [code]
 
